@@ -1,0 +1,4 @@
+framework module WitSDK {
+  header "WitSDK-Swift.h"
+  requires objc
+}
